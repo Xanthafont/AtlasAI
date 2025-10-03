@@ -1,6 +1,6 @@
-# 🤖 Atlas AI Companion
+# Atlas AI Companion
 
-A personal AI companion with memory and personality, built with Python and OpenAI's GPT API.
+A personal AI companion with memory and personality, built with Python and untilizes OpenAI's GPT API.
 
 ## Features
 
